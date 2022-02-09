@@ -92,3 +92,13 @@ body{
     transform: translateY(63px);
 
 }
+#services .btn-primary{
+    box-shadow: none;
+    padding: 8px 25px;
+    border: none;
+    border-radius: 20px;
+    background-image: linear-gradient(to right, #b86990,#2653cf);
+    
+}
+
+
